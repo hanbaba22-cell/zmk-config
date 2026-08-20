@@ -1,0 +1,6 @@
+if SHIELD_HANBABA_CHARYBDIS
+
+config ZMK_KEYBOARD_NAME
+    default "CharybdisTest"
+
+endif
